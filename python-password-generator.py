@@ -1,3 +1,4 @@
+import random
 upper_case = "ABCDEFGHIJKLMNOPQRSUVWXYZ"
 lower_case = "abcdefghijklmnopqrstuvwxyz"
 symbol = "<>/\\~!@#$%^&*()_- "
